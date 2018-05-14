@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.recipe_detail.GeneralInfoFragment">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/image_view_info"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:background="#f1f2f6" />
+
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:padding="5dp"
+        android:id="@+id/text_view_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tác giả           : Le Hoaq Huyn"
+        style="@android:style/TextAppearance.Medium" />
+
+    <TextView
+        android:padding="5dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/text_view_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Loại                 : Chay"
+        style="@android:style/TextAppearance.Medium" />
+
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:padding="5dp"
+        android:id="@+id/text_view_note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lượt ghi nhớ  : 30"
+        style="@android:style/TextAppearance.Medium" />
+
+    <TextView
+        android:padding="5dp"
+        android:id="@+id/text_view_ration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Khẩu phần      : 1"
+        android:visibility="invisible"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+</LinearLayout>

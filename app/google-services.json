@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780737451088",
+    "firebase_url": "https://cooking-a786d.firebaseio.com",
+    "project_id": "cooking-a786d",
+    "storage_bucket": "cooking-a786d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780737451088:android:0db9689a84c176af",
+        "android_client_info": {
+          "package_name": "com.example.cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780737451088-6ldb5pcrd1vcoh5bvsbglga24of079uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cooking",
+            "certificate_hash": "867048080825d66edc3a7c6384dad3894531a61e"
+          }
+        },
+        {
+          "client_id": "780737451088-cbp1ioq7somai7iivasov62up69s42pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxhn3Yl4qr9ixcmFlYG4tDb_m-XD3q8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780737451088-cbp1ioq7somai7iivasov62up69s42pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

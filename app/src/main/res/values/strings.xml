@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cooking</string>
+
+    <string name="create_cooking_recipe">Tạo công thức mới</string>
+    <string name="create_shopping_list">Tạo Shopping List</string>
+
+    <string name="back">Trở về</string>
+    <string name="next">Tiếp tục</string>
+
+    <string name="general_info">Thông tin chung</string>
+    <string name="material">Nguyên liệu</string>
+    <string name="guide">Hướng dẫn</string>
+
+    <string name="food_name">Tên món ăn/đồ uống</string>
+    <string name="ration">Khẩu phần</string>
+    <string name="image_picking">Chọn hình ảnh</string>
+    <string name="add_material">Thêm nguyên liệu</string>
+
+    <string name="complete">Hoàn thành</string>
+
+    <string name="type">Thể loại: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Đăng nhập</string>
+</resources>

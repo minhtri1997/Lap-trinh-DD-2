@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/creat_recipe"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:title="@string/create_shopping_list"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/create_shopping_list"
+        android:icon="@drawable/ic_shopping_cart_white_24dp"
+        android:title="@string/create_shopping_list" />
+    <item
+        android:id="@+id/item_profile"
+        android:title="Trang cá nhân" />
+
+    <item
+        android:id="@+id/item_logout"
+        android:title="Đăng xuất" />
+</menu>
